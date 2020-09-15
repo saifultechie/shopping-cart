@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-8">
                     <ol class="breadcrumb">
-                        <li><h3>Welcome to mr  <span style='color:green'>{{ucwords(Auth::user()->name)}}</span></h3></li>
+                        <li><h3>Welcome to mr saiful  <span style='color:green'>{{ucwords(Auth::user()->name)}}</span></h3></li>
                         <table border="0" align="center">
                             <tr>
                                 <td><a href="{{url('/')}}/orders" class="btn btn-success">My Orders</a></td>
