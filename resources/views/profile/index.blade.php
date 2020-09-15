@@ -22,7 +22,7 @@
                         <table border="0" align="center">
                             <tr>
                                 <td><a href="{{url('/')}}/orders" class="btn btn-success">My Orders</a></td>
-                                <td><a href="{{url('/address')}}" class="btn btn-success">My Address</a></td>
+                                <td><a href="{{url('/address')}}" class="btn btn-success">My Address is </a></td>
                                 <td><a href="{{url('/password')}}" class="btn btn-success">Change Password</a></td>
                             </tr>
                         </table>
